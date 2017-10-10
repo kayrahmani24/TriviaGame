@@ -1,0 +1,19 @@
+body {
+	background-image: url(../images/Chicago-Bulls.jpg);
+	 background-size: cover;
+	  background-repeat: no-repeat;
+}
+
+
+
+.panel-default {
+	max-width:500px;
+	margin-left:auto;
+	margin-right:auto; 
+	margin-top: 150px;
+}
+
+.panel-heading {
+background-color: black;
+ color: red;
+}
