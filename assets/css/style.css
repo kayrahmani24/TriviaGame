@@ -4,6 +4,9 @@ body {
 	  background-repeat: no-repeat;
 }
 
+ {
+	font-size: 400px;
+}
 
 
 .panel-default {
@@ -16,4 +19,11 @@ body {
 .panel-heading {
 background-color: black;
  color: red;
+}
+
+.container {font-family: 'Fjalla One', sans-serif;	font-size: 20px; 
+}
+
+label {
+	font-size: 13px;
 }
